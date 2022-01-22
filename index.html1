@@ -1,0 +1,19 @@
+
+<! DOCTYPE html>
+ <html>
+  <head>
+   <title>webpage</title>
+  </head>
+  <body>
+  <h1>Man Made Disasters</h1>
+  <img src="https://images.app.goo.gl/GjjjnU8wbJav5iYf7" width="50%"/>
+  <p>
+    Anthropogenic hazards are hazards caused by human action or inaction. They are contrasted with natural hazards. Anthropogenic hazards may adversely affect humans, other organisms, biomes, and ecosystems. They can even cause an omnicide. 
+  </p>
+  <ul>
+  <li><a href="Bhopal Gas Tragedy, India.html">Bhopal Gas Tragedy, India</a></li>
+  <li><a href="The Kuwait Oil Fires.html">The Kuwait Oil Fires</a></li>
+  <li><a href="Fukushima Meltdown, Japan.html">Fukushima Meltdown, Japan</a></li>
+  <li><a href="table.html">Man Made Disasters</a></li>
+  <li><a href="form.html">CLICK HERE</a> for more details</li>
+  </ul>
