@@ -1,0 +1,18 @@
+<! DOCTYPE html>
+ <html>
+  <head>
+   <title>webpage</title>
+  </head>
+  <body>
+  <h1>Maradona</h1>
+  <img src="https://images.app.goo.gl/qhy3pgrbcwzn3UaB6" width="50%"/>
+  <p>
+    Diego Armando Maradona (Spanish: [ˈdjeɣo maɾaˈðona]; 30 October 1960 – 25 November 2020) was an Argentine professional football player and manager. Widely regarded as one of the greatest players in the history of the sport, he was one of the two joint winners of the FIFA Player of the 20th Century award.
+  </p>
+  <ul>
+  <li><a href="early years.html">Early years</a></li>
+  <li><a href="club career.html">Club career</a></li>
+  <li><a href="international career.html">International career</a></li>
+  <li><a href="table.html">rice cultivation</a></li>
+  <li><a href="form.html">CLICK HERE</a> for more details</li>
+  </ul>
