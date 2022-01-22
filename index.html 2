@@ -4,7 +4,7 @@
    <title>webpage</title>
   </head>
   <body>
-  <h1>Man Made Disasters</h1>
+  <h1>ManMade Disasters</h1>
   <img src="man-made-disaster.jpg" width="50%"/>
   <p>
     Anthropogenic hazards are hazards caused by human action or inaction. They are contrasted with natural hazards. Anthropogenic hazards may adversely affect humans, other organisms, biomes, and ecosystems. They can even cause an omnicide. 
@@ -16,3 +16,5 @@
   <li><a href="table.html">Man Made Disasters</a></li>
   <li><a href="form.html">CLICK HERE</a> for more details</li>
   </ul>
+  </body>
+</html>
